@@ -1,6 +1,14 @@
 # Face_Recognition_Project
 Face Recognition using Aws Services
 
+# My AWS-powered Face Recognition Project
+
+This repository contains the code for my AWS-powered Face Recognition project. The project details and insights can be found in my LinkedIn blog: [https://www.linkedin.com/feed/update/urn:li:activity:7093626711338102785/].
+
+## Project Overview
+...
+
+
 Commands 
 
 ❖ Install Aws Shell : 
